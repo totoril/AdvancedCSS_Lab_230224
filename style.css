@@ -1,1 +1,12 @@
+html * {
+    margin: 0;
+}
+
+nav figure {
+    display: flex;
+    flex-direction: row;
+}
+nav figure:hover {
+    border-bottom: solid blue 2px;
+}
 
